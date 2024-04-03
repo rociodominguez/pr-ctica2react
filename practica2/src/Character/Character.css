@@ -1,0 +1,12 @@
+.character {
+  width: 200px;
+  cursor: pointer;
+}
+
+.character img {
+  width: 70%;
+}
+
+.character img.rotated {
+  transform: rotate(180deg);
+}
